@@ -1,3 +1,3 @@
 # moon_lander
 
-A older small Project which mimics the Moon Lander Game
+A olderProject which mimics the Moon Lander Game
